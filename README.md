@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi My Name Is SACHIN
+I am a Computer Science Graduate in 2024
+<br>
+My Goal is to Become a Data Scientist
+<br>
+Currently i am looking for Data Analyst Job
+<br>
+My Technical Skills are:
+<br>
+1- SQL
+<br>
+2- Pthon with libraries: Pandas, NumPy, sciPy, Matplotlib
+<br>
+3- Power BI
+<br>
+4- Excel
 
-<!--
-**Sachin0fficial/Sachin0fficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin0fficial)](https://github.com/sachin0fficial/github-readme-stats)
