@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Software+Engineer+%40+Cisco+Systems; Building+Scalable+Microservices+%26+Cloud-Native+APIs;Java+%7C+Spring+Boot+%7C+Kubernetes+%7C+gRPC;Cisco+%22You+Inspire+-+Play+to+Win%22+Award+Winner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Software+Engineer+%40+Cisco+Systems;BBuilding+Scalable+Microservices+%26+Cloud-Native+APIs;Java+%7C+Spring+Boot+%7C+Kubernetes+%7C+gRPC;Cisco+%22You+Inspire+-+Play+to+Win%22+Award+Winner" alt="Typing SVG" />
 </a>
 
 <br/>
