@@ -3,10 +3,16 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Sachin%20Vishwakarma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%40%20Cisco%20Systems%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=55&descAlign=50"/>
 
+
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Software+Engineer+%40+Cisco+Systems;BBuilding+Scalable+Microservices+%26+Cloud-Native+APIs;Java+%7C+Spring+Boot+%7C+Kubernetes+%7C+gRPC;Cisco+%22You+Inspire+-+Play+to+Win%22+Award+Winner" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=Software+Engineer+%40+Cisco+Systems;Building+Scalable+Microservices+%26+Cloud-Native+APIs;Java+%7C+Spring+Boot+%7C+Kubernetes+%7C+gRPC;Cisco+%22You+Inspire+-+Play+to+Win%22+Award+Winner"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <br/>
 
