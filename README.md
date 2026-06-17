@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Sachin%20Vishwakarma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Sachin%20Vishwakarma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%40%20Cisco%20Systems%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Microservices&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Backend+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable+APIs+%26+Microservices;150%2B+DSA+Problems+Solved;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Software+Engineer+%40+Cisco+Systems;Building+Scalable+Microservices+%26+Cloud-Native+APIs;Java+%7C+Spring+Boot+%7C+Kubernetes+%7C+gRPC;Cisco+%22You+Inspire+-+Play+to+Win%22+Award+Winner" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinvish/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sachin0fficial)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachinofficial71@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sachin-vishwakarma-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-mocha-mu-91.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sachin0fficial/)
 
 <img src="https://komarev.com/ghpvc/?username=sachin0fficial&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -29,54 +29,66 @@
 public class SachinVishwakarma {
 
     String name = "Sachin Vishwakarma";
-    String location = "Pune, Maharashtra, India";
-    String[] roles = {"Software Engineer", "Backend Developer", "Full Stack Developer"};
+    String location = "Bengaluru, India";
+    String company = "Cisco Systems";
+    String role = "Software Engineer Trainee";
     
-    String[] currentFocus = {
-        "Building scalable backend systems with Spring Boot",
-        "Designing RESTful APIs & microservices",
-        "Optimizing database performance with Redis caching"
+    String[] expertise = {
+        "Scalable Backend Microservices",
+        "Real-time APIs (gRPC, WebSocket)",
+        "Cloud-Native Architecture (Docker, K8s)",
+        "Enterprise Security & Compliance (NIST, GDPR)"
     };
     
-    String funFact = "I reduced endpoint latency by 40% using Redis caching!";
+    String[] aiTools = {"Claude Code", "Codex", "Cursor", "GitHub Copilot"};
+    
+    String achievement = "Cisco 'You Inspire - Play to Win' Award (2026)";
 }
 ```
 
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- **B.Tech in Computer Science** — SHEAT College of Engineering (CGPA: 7.85/10)
-- **Full Stack Java Master Program** — I.T.VEDANT (Score: 84%)
-- Solved **150+ DSA problems** on LeetCode, GFG & HackerRank
-- Currently building **E-Commerce platforms** with AI-powered features
-- Passionate about **clean architecture** and **system design**
+- **Software Engineer Trainee** @ **Cisco Systems**, Bengaluru
+- **B.Tech in Computer Science** — SHEAT College of Engineering
+- **Full Stack Java Master Program** — I.T.Vedant (NSDC Certified)
+- Building **cloud-native microservices** with real-time communication
+- Passionate about **system design**, **distributed systems** & **clean architecture**
+- Accelerating development with **AI tools** daily
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Experience
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Professional Experience
+
+### <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="20"/> Cisco Systems, Bengaluru
+**Software Engineer Trainee** | Aug 2025 - Present
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### SpeezyIT
-**Software Developer Intern** | Mar 2025 - May 2025
-
-> Backend Development using Java, Spring Boot, and MySQL to develop RESTful APIs
-
-</td>
-<td width="50%">
-
-### DLTITAN AI Innovations Pvt. Ltd.
-**SDE Intern** | Jan 2025 - Feb 2025
-
-> - Full Stack app with React, Java, Spring Boot, MySQL
-> - Optimized DB queries with Redis caching — **40% latency reduction**
+- Contributed to scalable backend **microservices** in Java & Spring Boot; extended APIs with **gRPC** and **WebSocket (WSS)** for real-time bidirectional communication on virtual agent platforms
+- Implemented enterprise-grade **security & compliance** features aligned with **NIST 800-53** and **GDPR** — audit logging, IP tracking, PII-safe logging
+- Designed & integrated **REST APIs** with **PostgreSQL** and **Redis**, applying clean architecture principles
+- Deployed cloud-native services using **Docker**, **Kubernetes**, and **Jenkins CI/CD** pipelines; performed production debugging and root cause analysis
+- Built **AI-driven internal tools** using Claude Code, Codex, and Cursor
+- Awarded **Cisco "You Inspire — Play to Win"** [Award (2026)](https://drive.google.com/file/d/1dzfYnGVzUcHCqNTG1F9ufANb2qm80jOq/view?usp=drive_link) for impactful contributions
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>Previous Experience</b></summary>
+<br/>
+
+| Company | Role | Duration | Key Work |
+|---------|------|----------|----------|
+| **SpeezyIT** | Software Developer Intern | Mar 2025 - May 2025 | RESTful APIs in Java/Spring Boot + MySQL, query optimization |
+| **DLTITAN AI Innovations** | SDE Intern | Jan 2025 - Feb 2025 | Full-stack apps (React + Spring Boot), Redis caching for high-traffic APIs |
+
+</details>
 
 ---
 
@@ -84,20 +96,21 @@ public class SachinVishwakarma {
 
 <div align="center">
 
-<a href="https://github.com/Sachin0fficial">
+<a href="https://ecommerce-dev-richard.netlify.app/">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin0fficial&repo=ShopCo-E-Commerce&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7" />
 </a>
-<a href="https://github.com/Sachin0fficial">
+<a href="https://simplleai.netlify.app/">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sachin0fficial&repo=SimpleAI-Agent&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7" />
 </a>
 
 </div>
 
+<br/>
+
 | Project | Tech Stack | Highlights |
 |---------|-----------|------------|
-| **Shop Co** — E-Commerce + AI Chatbot | Java, Spring Boot, MySQL, Gemini AI | 85% topic accuracy, 90% faster query resolution |
-| **SimpleAI Agent** — AI Automation Tool | Java, Spring Boot, MySQL, React, OpenAI | 4+ AI tools, 50% productivity boost, 60% faster content creation |
-| **Portfolio Website** | React, Tailwind CSS, Framer Motion | Dynamic animations, fully responsive, deployed on Vercel |
+| [**Shop Co**](https://ecommerce-dev-richard.netlify.app/) — E-Commerce + AI Chatbot | Java, Spring Boot, MySQL, React, Gemini AI | Real-time AI responses, secure auth, clean architecture |
+| [**SimpleAI Agent**](https://simplleai.netlify.app/) — AI Productivity Suite | Java, Spring Boot, MySQL, React, OpenAI | Hashtag generators, post creators, article summarizers |
 
 ---
 
@@ -113,25 +126,42 @@ public class SachinVishwakarma {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Databases
+### Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### AI/ML & Developer Tools
+![Claude](https://img.shields.io/badge/Claude_Code-6B4FBB?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### Core Concepts
+![System Design](https://img.shields.io/badge/System_Design-FF6F00?style=for-the-badge&logo=drawio&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-7B1FA2?style=for-the-badge&logo=apache&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-00897B?style=for-the-badge&logo=thealgorithms&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-1565C0?style=for-the-badge&logo=java&logoColor=white)
 
 </div>
 
@@ -150,17 +180,26 @@ public class SachinVishwakarma {
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Certifications
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Certifications & Achievements
 
 <div align="center">
 
-| Certification | Issuer | Date |
+| Certification | Issuer | Verify |
 |:---:|:---:|:---:|
-| Java Fundamentals | IBM | Feb 2025 |
-| SQL and Relational Databases 101 | IBM | Feb 2025 |
-| Web Development using HTML | IBM | Feb 2025 |
+| Java Fundamentals, SQL & Relational Databases, Web Development | IBM | [View Certificates](https://drive.google.com/drive/folders/1de1aWTRvV3CW-3l1Lu7x6EISPyaVb_7U?usp=sharing) |
+| UI, Backend & Database, API, CI/CD, GitHub Copilot | Simplilearn | [View Certificates](https://drive.google.com/drive/folders/1FvKlsqLHwxwsNHYt8XzBmBQq_T6gz1xZ?usp=sharing) |
+| **"You Inspire — Play to Win" Award** | **Cisco (2026)** | [View Award](https://drive.google.com/file/d/1dzfYnGVzUcHCqNTG1F9ufANb2qm80jOq/view?usp=drive_link) |
 
 </div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Education
+
+| Degree | Institution | Duration |
+|--------|------------|----------|
+| B.Tech in Computer Science & Engineering | SHEAT College of Engineering, Varanasi | Sep 2020 - Jul 2024 |
+| Master in Full Stack Web Development (Java) | [I.T.Vedant (NSDC Certified)](https://drive.google.com/file/d/1iQW3FJPsTNk5RFenA_CTSTbz8MOasIUJ/view?usp=drive_link), Pune | Sep 2024 - Feb 2025 |
 
 ---
 
@@ -174,7 +213,7 @@ public class SachinVishwakarma {
 
 <br/><br/>
 
-**Open to exciting opportunities in Java/Spring Boot Backend Development!**
+**Software Engineer @ Cisco Systems | Open to collaboration on interesting projects!**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
